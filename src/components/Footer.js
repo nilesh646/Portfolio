@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiFillLinkedin,
+  // AiFillLinkedin,
   // AiOutlineTwitter,
   // AiFillInstagram,
 } from "react-icons/ai";
